@@ -2,4 +2,42 @@
 
 body {
     font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0.5px;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    height: 100px;
+    background: lightblue;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+.header-text {
+    text-align: left;
+    width: 75%;
+    vertical-align: middle;
+    margin: 10px 0 0 30px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.header a {
+    margin-top: 25px;
+}
+
+.content {
+    padding: 30px;
+}
+
+h4 {
+    margin: 0px;
+}
+
+.contacts-text {
+    font-size: 12px;
 }
