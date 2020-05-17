@@ -11,7 +11,7 @@ body {
 .header {
     display: flex;
     height: 100px;
-    background: url("./assets/header-background.jpg");
+    background: lightblue;
     position: sticky;
     position: -webkit-sticky;
     top: 0;
