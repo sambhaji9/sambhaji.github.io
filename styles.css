@@ -10,7 +10,7 @@ body {
 
 .header {
     display: flex;
-    height: 100px;
+    height: 120px;
     background: lightblue;
     position: sticky;
     position: -webkit-sticky;
@@ -23,7 +23,7 @@ body {
     vertical-align: middle;
     margin: 2px 0 0 30px;
     font-weight: 500;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 .header a {
@@ -39,5 +39,5 @@ h4 {
 }
 
 .contacts-text {
-    font-size: 12px;
+    font-size: 14px;
 }
