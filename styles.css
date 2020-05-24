@@ -10,7 +10,7 @@ body {
 
 .header {
     display: flex;
-    height: 120px;
+    height: 150px;
     background: lightblue;
     position: sticky;
     position: -webkit-sticky;
